@@ -1,5 +1,10 @@
 {
-    "editor.fontSize": 16,
+    "editor.fontSize": 15,
     "editor.wordWrap": "on",
-    "diffEditor.wordWrap": "on"
+    "diffEditor.wordWrap": "on",
+    "editor.tabSize": 4,
+    "editor.minimap.maxColumn": 100,
+    "editor.minimap.size": "proportional",
+    "editor.minimap.enabled": true,
+    "editor.minimap.autohide": true
 }
